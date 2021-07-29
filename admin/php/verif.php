@@ -43,7 +43,7 @@ $login=$_POST['user'];
 $password=$_POST['password'];
 
 $login_ok="binabou";
-$password_ok="Aliyahmaissa.1";
+$password_ok="Choisissezunmodepassesolide";
 //$password_ok=password_hash("binta", PASSWORD_DEFAULT);
 
 if($login==$login_ok AND $password==$password_ok){
